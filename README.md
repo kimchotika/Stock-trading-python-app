@@ -174,6 +174,6 @@ It demonstrates:
 
 ---
 
-✨ With this project, I showcase my ability to **design and implement a real-world data pipeline** from external APIs to structured datasets — a key responsibility for Data Engineers.
+✨ With this project, I showcase my ability to **design and implement a real-world data pipeline** from external APIs to structured datasets which is a key responsibility for Data Engineers.
 
 ---
