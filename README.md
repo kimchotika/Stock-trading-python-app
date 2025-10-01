@@ -6,7 +6,7 @@
 
 > 🏗️ *This project began as part of the [DataExpert.io Absolutely Free Beginner Data Engineering Boot Camp](https://dataexpert.io), where I learned the fundamentals of building data pipelines in Python.*
 >
-> 🚀 *I then extended the exercise into a real-world ETL workflow: integrating with the Polygon.io API, handling pagination, transforming JSON into tabular data, and writing the results into a structured CSV dataset with **~12,000 US stock tickers**.*
+> 🚀 *I then extended the exercise into a real-world ETL workflow: integrating with the Polygon.io API, handling pagination, transforming JSON into tabular data, and writing the results into a structured CSV dataset with **~5000 US stock tickers**.*
 >
 > 📖 *This README documents not only the **how**, but also the **why**: how this project simulates the responsibilities of a Data Engineer in a production environment.*
 
@@ -81,7 +81,7 @@ All results are written to `tickers.csv`.
 
 ## 📊 Results
 
-* ✅ Final dataset: **~12,000 rows x 12 columns**
+* ✅ Final dataset: **~5000 rows x 12 columns**
 * ✅ Output file: `tickers.csv` (Excel/DB ready)
 * ✅ Example row:
 
